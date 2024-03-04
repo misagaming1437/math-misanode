@@ -1,11 +1,22 @@
 {
   "name": "math-misanode",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This is test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "misanode",
-  "license": "ISC"
+  "author": "misagaming1437",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/misagaming1437/math-misanode/issues"
+  },
+  "homepage": "https://github.com/misagaming1437/math-misanode#readme",
+  "dependencies": {
+    "lint": "^0.8.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misagaming1437/math-misanode.git"
+  }
 }
