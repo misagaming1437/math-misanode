@@ -1,1 +1,1 @@
-Hello, this is example testnet
+This is testnet
