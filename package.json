@@ -1,22 +1,26 @@
 {
-  "name": "math-misanode",
-  "version": "1.0.3",
-  "description": "This is test",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "misagaming1437",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/misagaming1437/math-misanode/issues"
-  },
-  "homepage": "https://github.com/misagaming1437/math-misanode#readme",
-  "dependencies": {
-    "lint": "^0.8.19"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/misagaming1437/math-misanode.git"
-  }
+    "name": "math-misanode",
+    "version": "1.0.4",
+    "description": "This is test",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "misagaming1437",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/misagaming1437/math-misanode/issues"
+    },
+    "homepage": "https://github.com/misagaming1437/math-misanode#readme",
+    "dependencies": {
+        "eslint-plugin-ft-flow": "^3.0.7",
+        "lint": "^1.1.2",
+        "meow": "^13.2.0",
+        "npm-run-path": "^5.3.0",
+        "prettier": "^3.2.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/misagaming1437/math-misanode.git"
+    }
 }
