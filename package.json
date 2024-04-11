@@ -1,6 +1,6 @@
 {
     "name": "math-misanode",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "This is test",
     "main": "index.js",
     "scripts": {
@@ -16,6 +16,7 @@
         "eslint-plugin-ft-flow": "^3.0.7",
         "lint": "^1.1.2",
         "meow": "^13.2.0",
+        "npm-check-updates": "^16.14.18",
         "npm-run-path": "^5.3.0",
         "prettier": "^3.2.5"
     },
