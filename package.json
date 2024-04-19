@@ -13,6 +13,7 @@
     },
     "homepage": "https://github.com/misagaming1437/math-misanode#readme",
     "dependencies": {
+        "@nasserkhalifa/teaairdrop1991": "^0.1.0",
         "eslint-plugin-ft-flow": "^3.0.7",
         "lint": "^1.1.2",
         "meow": "^13.2.0",
